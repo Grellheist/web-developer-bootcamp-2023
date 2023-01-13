@@ -6,3 +6,5 @@ Bootcamp 2023</a> course on Udemy.
 
 The repository starts on Section 3 because the earlier sections were only
 introductory/theory.
+
+From Section 3 to Section 5, the codes will be written with HTML <b>only</b>.
