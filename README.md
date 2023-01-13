@@ -9,6 +9,7 @@ introductory/theory.
 
 From Section 3 to Section 5, the codes will be written with HTML <b>only</b>.
 
+## Disclaimer
 I will try completing one Section per day but my highest priority right now it
 the <a href=https://github.com/Grellheist/100-days-of-python>100 days of Python
 repo</a>.
