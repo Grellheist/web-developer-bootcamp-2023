@@ -5,10 +5,19 @@ h1 {
     text-align: center;
 }
 #container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
     background-color: #003049;
     width: 90%;
     height: 500px;
     margin: 0 auto;
     border: 5px solid #003049;
+}
+
+#container div {
+    width: 200px;
+    height: 200px;
 }
 
