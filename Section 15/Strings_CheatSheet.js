@@ -34,7 +34,7 @@ city[3]; //'y'
 // String Template Literals
 // Use backtick characters, NOT SINGLE QUOTES!
 // ========================
-const color = "olive green";
+const newColor = "olive green";
 const msg = `My favorite color is: ${color}` //"My favorite color is: olive green"
 
 const str = `There are ${60 * 60 * 24} seconds in a day`//"There are 86400 seconds in a day"
