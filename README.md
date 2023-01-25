@@ -18,6 +18,9 @@ From Section 6 onwards, the codes will be written with the addition of CSS
 From Section 12 onwards, the codes may (there are other frameworks that will
 be used in the bootcamp) be written using Bootstrap instead of plain CSS.
 
+## Javascript
+Javascript is going to be present from section 14 onwards.
+
 ## Disclaimer
 I will try completing one Section per day but my highest priority right now is
 the <a href=https://github.com/Grellheist/100-days-of-python>100 days of Python
