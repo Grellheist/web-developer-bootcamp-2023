@@ -19,7 +19,9 @@ From Section 12 onwards, the codes may (there are other frameworks that will
 be used in the bootcamp) be written using Bootstrap instead of plain CSS.
 
 ## Javascript
-Javascript is going to be present from section 14 onwards.
+Javascript is going to be present from section 14 onwards. For the JS content I
+will mostly only keep the files as a cheat sheet to learn the syntax for the
+language.
 
 ## Disclaimer
 I will try completing one Section per day but my highest priority right now is
