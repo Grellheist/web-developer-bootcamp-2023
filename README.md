@@ -24,7 +24,7 @@ will mostly only keep the files as a cheat sheet to learn the syntax for the
 language.
 
 ## DOM
-The DOM model is introduced in Section 24.
+The DOM is introduced in Section 24.
 
 ## Disclaimer
 I will try completing one Section per day but my highest priority right now is
