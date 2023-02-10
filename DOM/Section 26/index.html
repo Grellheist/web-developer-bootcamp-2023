@@ -4,11 +4,39 @@
         <title>Score Keeper</title>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link href="styles.css" rel="stylesheet">
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css">
     </head>
     <body>
-        <h1><span id="p1Score">0</span> to <span id="p2Score">0</span></h1>
-        <select name="" id="playTo">
+        <div class="container">
+            <div class="columns">
+                <div class="column is-half is-offset-one-quarter">
+                    <div class="card">
+  <header class="card-header">
+    <p class="card-header-title">
+        Ping Pong Score Keeper
+    </p>
+    <button class="card-header-icon" aria-label="more options">
+      <span class="icon">
+        <i class="fas fa-angle-down" aria-hidden="true"></i>
+      </span>
+    </button>
+  </header>
+  <div class="card-content">
+    <div class="content">
+        <h1 class="title is-1"><span id="p1Score">0</span> to <span id="p2Score">0</span></h1>
+        <p class="subtitle">Use the buttons below to keep score.</p>
+    </div>
+  </div>
+  <footer class="card-footer">
+    <button id="playerOne" class="is-primary button card-footer-item">+1 Player One</button> 
+    <button id="playerTwo" class="is-info button card-footer-item">+1 Player Two</button> 
+    <button id="reset" class="is-danger button card-footer-item">Reset</button> 
+  </footer>
+</div>
+                </div>
+            </div>
+        </div>
+        <select id="playTo">
             <option value="3">3</option>
             <option value="4">4</option>
             <option value="5">5</option>
@@ -19,9 +47,6 @@
             <option value="10">10</option>
             <option value="11">11</option>
         </select>
-        <button id="playerOne">+1 Player One</button>
-        <button id="playerTwo">+1 Player Two</button>
-        <button id="reset">Reset</button>
 
         <script src="app.js"></script>
     </body>
