@@ -16,6 +16,8 @@ p1Button.addEventListener("click", function(){
         p1Points += 1;
         if(p1Points === winningScore){
             isGameOver = true;
+            p1Score.classList.add("has-text-success");
+            p2Score.classList.add("has-text-danger");
         }
     }
     p1Score.innerText = p1Points;
@@ -26,6 +28,8 @@ p2Button.addEventListener("click", function(){
         p2Points += 1;
         if(p2Points === winningScore){
             isGameOver = true;
+            p2Score.classList.add("has-text-success");
+            p1Score.classList.add("has-text-danger");
         }
     }
     p2Score.innerText = p2Points;
@@ -44,4 +48,6 @@ resetButton.addEventListener("click", reset)
     isGameOver = false;
     p1Score.innerText = p1Points;
     p2Score.innerText = p2Points;
+    p1Score.classList.remove("has-text-success", "has-text-danger");
+    p2Score.classList.remove("has-text-danger", "has-text-success");
 }
