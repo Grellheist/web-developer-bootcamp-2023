@@ -7,7 +7,7 @@ const p2Score = document.querySelector("#p2Score");
 let p1Points = 0;
 let p2Points = 0;
 
-const winningScore = 6;
+let winningScore = 5;
 let isGameOver = false;
 
 p1Button.addEventListener("click", function(){
