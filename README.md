@@ -26,6 +26,10 @@ language.
 ## DOM
 The DOM is introduced in Section 24.
 
+## Advanced JS concepts
+This folder goes through a lot of concepts, like Async JS and promises, AJAX,
+APIs, Prototypes, Classes and OOP.
+
 ## Disclaimer
 I will try completing one Section per day but my highest priority right now is
 the <a href=https://github.com/Grellheist/100-days-of-python>100 days of Python
