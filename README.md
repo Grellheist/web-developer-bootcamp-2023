@@ -30,6 +30,10 @@ The DOM is introduced in Section 24.
 This folder goes through a lot of concepts, like Async JS and promises, AJAX,
 APIs, Prototypes, Classes and OOP.
 
+## Backend
+The backend section starts on Section 30, which introduces the terminal (which
+I'm quite familiar with) and has no coding content.
+
 ## Disclaimer
 I will try completing one Section per day but my highest priority right now is
 the <a href=https://github.com/Grellheist/100-days-of-python>100 days of Python
