@@ -34,6 +34,11 @@ APIs, Prototypes, Classes and OOP.
 The backend section starts on Section 30, which introduces the terminal (which
 I'm quite familiar with) and has no coding content.
 
+After Section 30, the course introduces NodeJS.
+
+## Express
+Express will be used from Section 33 onwards.
+
 ## Disclaimer
 I will try completing one Section per day but my highest priority right now is
 the <a href=https://github.com/Grellheist/100-days-of-python>100 days of Python
