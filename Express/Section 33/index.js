@@ -52,7 +52,7 @@ app.get('*', (req, res) => {
 
 // /cats => 'meow'
 // /dogs => 'woof'
-// '/' 
+// '/'
 
 
 
