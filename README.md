@@ -42,6 +42,10 @@ Express will be used from Section 33 onwards.
 ## MongoDB
 The Database that is being used for this course is MongoDB.
 
+## YelpCamp
+THE main and final project of the course. I will try my best to do most of the
+requirements by myself before watching the videos.
+
 ## Disclaimer
 I will try completing one Section per day but my highest priority right now is
 the <a href=https://github.com/Grellheist/100-days-of-python>100 days of Python
