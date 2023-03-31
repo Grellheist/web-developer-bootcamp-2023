@@ -53,3 +53,18 @@ repo</a>.
 
 Also, I will still do the basic stuff to get a sense of continuity from the
 course (I've learned most of the HTML/CSS sections on FreeCodeCamp).
+
+# Feedback & Updates
+I am really enjoying the course and all it does provide. It is great value if
+you get it while on promo.
+
+However, there ARE a few things I dislike about it. I heavily dislike the usage
+of MongoDB in this course. Although MongoDB CAN be used in some cases, it
+should not be used in the case of this project. Any SQL db would do a better
+job here (Also my MongoDB installation broke, so it makes me dislike it even
+more lol).
+
+Also, I don't really like the usage of ejs for the html stuff, but that's
+mostly because I don't like the syntax.
+
+All in all, would rate it 75/100, and I definitely recommend the purchase.
