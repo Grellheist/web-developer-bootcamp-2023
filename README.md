@@ -56,7 +56,7 @@ course (I've learned most of the HTML/CSS sections on FreeCodeCamp).
 
 # Feedback & Updates
 I am really enjoying the course and all it does provide. It is great value if
-you get it while on promo.
+you get it while on sale.
 
 However, there ARE a few things I dislike about it. I heavily dislike the usage
 of MongoDB in this course. Although MongoDB CAN be used in some cases, it
