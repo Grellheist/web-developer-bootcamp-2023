@@ -55,7 +55,7 @@ Also, I will still do the basic stuff to get a sense of continuity from the
 course (I've learned most of the HTML/CSS sections on FreeCodeCamp).
 
 # Feedback & Updates
-I am really enjoying the course and all it does provide. It is great value if
+I've really enjoyed the course and all it does provide. It is great value if
 you get it while on sale.
 
 However, there ARE a few things I dislike about it. I heavily dislike the usage
